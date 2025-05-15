@@ -1,7 +1,7 @@
 ---
 title: Image Processing using OpenCV
 description: A tutorial on basic image processing and OpenCV library of C++
-author: Yash Srivastav
+author: yashs15
 date: 2016-05-28 17:48:35 +0530
 categories: [Machine Learning, Computer Vision]
 tags: [computer vision, tutorial]
@@ -12,7 +12,7 @@ image:
   path: /assets/img/OpenCV.png
   #url: https://3.bp.blogspot.com/-yvrV6MUueGg/ToICp0YIDPI/AAAAAAAAADg/SYKg4dWpyC43AAfrDwBTR0VYmYT0QshEgCPcBGAYYCw/s1600/OpenCV_Logo.png
   # lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: OpenCV
 
 ---
 

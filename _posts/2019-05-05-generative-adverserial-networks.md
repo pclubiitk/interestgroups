@@ -1,7 +1,7 @@
 ---
 title: Generative Adversarial Networks
 description: A writeup about Adversarial Networks and their applications
-author: Avinandan  Bose
+author: avinandanb17
 date: 2019-05-05 17:23:20 +0530
 categories: [Machine Learning, Generative Models]
 tags: [deep learning, probabilistic machine learning, generative adverserial networks]
@@ -12,7 +12,7 @@ image:
   path: /assets/img/GANs.png
   #url: https://miro.medium.com/max/959/1*bzu7oNtK8WBYQQod2YVSXA.png
   # lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Generative Adversarial Networks Architecture
 ---
 ### What are GANs?
 

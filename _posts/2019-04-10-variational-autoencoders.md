@@ -1,7 +1,7 @@
 ---
 title: Variational Autoencoders
 description: An in depth explanation of Variational Autoencoders via probablistic understanding  
-author: Naman Biyani
+author: namanb18
 date: 2019-04-10 23:00:00 +0530
 categories: [Machine Learning, Generative Models]
 tags: [probabilistic machine learning, probability distributions, optimizing divergences]
@@ -12,7 +12,7 @@ image:
   path: /assets/img/VAEs.png
   #url: https://i.ytimg.com/vi/d0W_Ab-aZGo/maxresdefault.jpg
   # lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
-  alt: Responsive rendering of Chirpy theme on multiple devices.
+  alt: Variational Autoencoder Architecture
 ---
 ### Introduction 
 
