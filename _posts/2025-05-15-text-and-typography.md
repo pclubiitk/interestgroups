@@ -3,7 +3,7 @@ title: Text and Typography
 description: Examples of text, typography, math equations, diagrams, flowcharts, pictures, videos, and more.
 author: cotes
 date: 2025-05-15 09:30:00 +0530
-categories: [Blogging, Demo]
+categories: [Machine Learning, Mechanistc Interpretability]
 tags: [typography]
 pin: true
 math: true
