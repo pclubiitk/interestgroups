@@ -44,7 +44,7 @@ The repository versions of OpenCV are usually not the latest versions and you mi
 some features.
 
 If you need specific features or a newer version of OpenCV (let's say for python3 support),
-you could look [here](milq.github.io/install-opencv-ubuntu-debian) for a very good guide
+you could look [here](https://milq.github.io/install-opencv-ubuntu-debian/) for a very good guide
 on compiling OpenCV from source.
 
 ## Compiling and running Programs in C++

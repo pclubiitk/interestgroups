@@ -49,7 +49,7 @@ SNN communicates through "spikes"- discrete events happening at specific moments
 
 SNNs very closely mimic the actual working of biological neurons, while ANNs have their neurons to process continuous data & have almost every neuron connected to every other neuron, SNNs have these properties like actual neurons. A biological neuron works on discrete spikes of electric signals depicted by high & low voltages, also a single neuron is connected to only nearby neurons. SNN also follows a similar rule by working on spikes of discrete data and having a direct connection to only nearby neurons.
 
-With regard to learning, SNN utilizes the STDP(Spike Timing Dependent Plasticity) mechanism, a biologically inspired rule that adjusts the strength of connections between neurons based on the timing of their spikes. SNNs make use of STDP to learn from temporal details in data, just like the human brain learns from experiences over time. We will talk about STDP in much detail in section [3.4](#34-Learning--STDP) below.
+With regard to learning, SNN utilizes the STDP(Spike Timing Dependent Plasticity) mechanism, a biologically inspired rule that adjusts the strength of connections between neurons based on the timing of their spikes. SNNs make use of STDP to learn from temporal details in data, just like the human brain learns from experiences over time. We will talk about STDP in much detail in section 3.4.
 
 ## 3) Key Concepts in SNN
 
@@ -96,7 +96,7 @@ As SNNs process data in the temporal domain, the data needs to be encoded to rep
 * **Temporal Coding:** If the exact timing of spikes is used it is called Temporal Coding.
 * **Population Coding:** When information is Distributed across multiple neurons, allowing collective capture of the spiking pattern.
 
-More about Temporal encoding in Section [4](#4-Encoding-Data-in-SNNs).
+More about Temporal encoding in Section 4: Encoding-Data-in-SNNs.
 ### 3.4) Learning through STDP
 SNNs leverage a special learning mechanism named Spike-Timing Dependent Plasticity (STDP), which is a biologically inspired system of updating weights based on the timing of the spike. Let's first look at some related concepts-
 * **Synapse:**  Synapse refers to the connection between two neurons.
