@@ -15,14 +15,14 @@ image:
 ---
 
 # Spiking Neural Networks
-![neural_net-03](/images/SNN/snn-1.png)
+![neural_net-03](/assets/img/SNN/snn-1.png)
 
 
 Spiking Neural Networks(SNNs) are the third generation of neural network models. They possess a unique ability to mimic a biological neuron closely. Biological neurons communicate via spikes—brief, discrete events in time that are Highs and lows in electrical signals. SNNs simulate this process by using spikes as the fundamental unit of information and computation. This fundamental difference from traditional artificial neural networks (ANNs), which process continuous data, makes SNNs closer to the human brain.
 
 ## 1) What are SNNs? How is it different from ANN?
 <div style="text-align: center;">
-  <img src="/images/SNN/snn-2.png" alt="Spikes">
+  <img src="/assets/img/SNN/snn-2.png" alt="Spikes">
 </div>
 
 
@@ -61,7 +61,7 @@ Having discussed the WHAT & WHY question about Spiking Neural Networks, let's no
 
 ### 3.1) Spikes
 <div style="text-align: center;">
-  <img src="/images/SNN/snn-3.png" alt="Neuron">
+  <img src="/assets/img/SNN/snn-3.png" alt="Neuron">
 </div>
 =
 
@@ -127,7 +127,7 @@ $$
 
 ## 4) Encoding Data in SNNs
 <div style="text-align: center;">
-  <img src="/images/SNN/snn-4.jpg" alt="Temporal Encoding">
+  <img src="/assets/img/SNN/snn-4.jpg" alt="Temporal Encoding">
 </div>
 
 Temporal Encoding refers to how incoming data, in the form of images, audio, or sensor readings, needs to be converted into spike trains for processing in Spiking Neural Networks (SNNs). Unlike traditional artificial neural networks, where inputs are represented as continuous values, SNNs require data to be represented in the form of discrete spikes over time.
@@ -182,7 +182,7 @@ Here the latency, that is, the delay of spikes relative to a stimulus onset is e
 
 ## 5) Applications of SNNs
 <div style="text-align: center;">
-  <img src="/images/SNN/snn-5.png" alt="Appication of SNN">
+  <img src="/assets/img/SNN/snn-5.png" alt="Appication of SNN">
 </div>
 
 In recent times SNNs have become one of the most important research areas in the Artificial Intelligence(AI) domain, the SNNs are more robust than ANNs with their more biological design. This unique approach has paved the way for a variety of innovative applications across diverse fields.

@@ -27,7 +27,7 @@ If you're already well versed with the Universal Approximation Theorem, MLP Arch
 ### 1.1| Universal Approximation Theorem
 Ever wondered why and how MLPs held their ground as the default foundational building block of basically every Deep Neural Network ranging from simple classification models to those sophisticated LLMs for easily over 20 years? If you really think about it, with the rapid pace and remarkable progress in Machine Learning, its pretty crazy for MLPs to not see any contender for its position for such a long time.this just goes to show how good they actually are and how difficult it is to find something better.  
 Their strength lies in their foundation itself that is the Universal Approximation Theorem. Universal Approximation theorem states that no matter what a function $y=F(x)$ be ,there exists a series of neural nets $\phi _{1},\phi _{2},...$ such that eventually $\phi _{n}\rightarrow f(x)$.Okay lets end the mathematical jargon here and let me try to tell you what it aims to do. First imagine any non linear continuous function of $x$ (say a sine curve) , now try to draw line segments on that curve such that those line segments fit the curve as neatly as they can. In other words define a function that says if $x \in (a,b)$ then follow this straight line such that each $(a,b)$ do not intersect each other and cover all possible values of $x$.
-![Artificial_neural_network_curve_fitting__nonlinear_regression](/images/Kan_blog_2.gif)
+![Artificial_neural_network_curve_fitting__nonlinear_regression](/assets/img/KAN/Kan_blog_2.gif)
 ### 1.2| MLP Architecture
 We have been discussing MLPs for a very long time here, but do you know what they actually are? Multi Layer Perceptons are really just a type of artificial neural network consisting of multiple layers of neurons. The neurons in MLP typically use nonlinear activation functions, allowing the network to learn complex patterns in data.
 You might actually be very familiar with their architecture that is just a feed-forward neural network consisting of an input layer, hidden layers and finally an output layer all linked through nonlinear activation functions. Well, the only difference between ANN and MLP is that MLPs always have nonlinear activation functions while ANNs may or may not use them. If you are familiar with machine learning all this must already be known to you, but in case you aren't here is a pretty great [**video**](https://youtu.be/CqOfi41LfDw?si=9_AX1uMNi198bITn) for you to understand all the stuff related to ANNs along with the essential maths.
@@ -141,7 +141,7 @@ Now let me explain what exactly is happening over here, say $(a_1,...a_n)$ are t
 
 Another way to interpret whats written above is by looking at the following matrix multiplication equation. I have taken this directly from the paper. Here they have taken the input dimension to be n and output dimension to be 2n+1. Now they have described the matrix to be a matrix of functions and the input and output to be column matrices. Just remember that what is going on over here is not matrix multiplication but rather the multiplication of the two elements of the matrix has been replaced by passing ones element as an argument to the function i.e. $b _{i,j} * a _{j,k}  \rightarrow b(a _{j,k}) _{i,j}$ 
 
-![Matrix](/images/Kan_blog_1.png)
+![Matrix](/assets/img/KAN/Kan_blog_1.png)
 
 ### 3.2| Interpretability
 
