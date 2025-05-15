@@ -19,7 +19,7 @@ image:
 OpenCV is the most widely used Computer Vision Library out there. It is
 very powerful and offers many features suiting the needs of anyone requiring
 Image Processing. This tutorial is a slightly modified version of
-[this](http://students.iitk.ac.in/robocon/docs/doku.php?id=programming:image_processing_intro)
+[this](https://students.iitk.ac.in/robocon/docs/doku.php?id=programming:image_processing_intro)
 with a simpler method of compiling.
 
 ## Installation
@@ -108,19 +108,19 @@ After compilation finishes (hopefully without any errors), you can run this test
 ```
 
 For a more involved and complex compilation involving `cmake`, you can look
-[here](http://students.iitk.ac.in/robocon/docs/doku.php?id=programming:image_processing_intro) and
-[here](http://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html#linux-gcc-usage).
+[here](https://students.iitk.ac.in/robocon/docs/doku.php?id=programming:image_processing_intro) and
+[here](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_gcc_cmake/linux_gcc_cmake.html#linux-gcc-usage).
 
 ## Learning OpenCV
 
 Now that you can compile and execute OpenCV programs, you are ready to begin learning OpenCV.
-The OpenCV [tutorials](http://docs.opencv.org/2.4/doc/tutorials/tutorials.html) on their website is a
+The OpenCV [tutorials](https://docs.opencv.org/2.4/doc/tutorials/tutorials.html) on their website is a
 good starting point. My suggested order of reading is:
 
-* [Load and display an image](http://docs.opencv.org/2.4/doc/tutorials/introduction/display_image/display_image.html#display-image)
-* [Adding Images](http://docs.opencv.org/2.4/doc/tutorials/core/adding_images/adding_images.html#adding-images)
-* [Basic Drawing](http://docs.opencv.org/2.4/doc/tutorials/core/basic_geometric_drawing/basic_geometric_drawing.html#drawing-1)
-* Followed by all tutorials in the [Image Processing Module](http://docs.opencv.org/2.4/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html#table-of-content-imgproc)
+* [Load and display an image](https://docs.opencv.org/2.4/doc/tutorials/introduction/display_image/display_image.html#display-image)
+* [Adding Images](https://docs.opencv.org/2.4/doc/tutorials/core/adding_images/adding_images.html#adding-images)
+* [Basic Drawing](https://docs.opencv.org/2.4/doc/tutorials/core/basic_geometric_drawing/basic_geometric_drawing.html#drawing-1)
+* Followed by all tutorials in the [Image Processing Module](https://docs.opencv.org/2.4/doc/tutorials/imgproc/table_of_content_imgproc/table_of_content_imgproc.html#table-of-content-imgproc)
 
 The above order is because the initial tutorials tend to be more theoretical and focussing on the internals of OpenCV
 rather than actual usage.
